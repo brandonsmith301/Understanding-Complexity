@@ -1,6 +1,2 @@
-# Understanding-Complexity
-Brief research on the different types of complexity
-
-A little uni project, on researching what complexity means.
-
-The links do not work.. 
+# Brandon's study notebooks 
+Various topics in relation to machine learning, mathematics or computer science.. 
