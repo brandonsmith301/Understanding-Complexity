@@ -1,1 +1,1 @@
-# Brandon's study notebooks 
+# Brandon's notebooks 
