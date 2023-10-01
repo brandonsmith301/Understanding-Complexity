@@ -1,10 +1,10 @@
-import subprocess
+# import subprocess
 
-try:
-    import fuzzywuzzy
-except ImportError:
-    subprocess.run(["pip", "install", "fuzzywuzzy"])
-    import fuzzywuzzy
+# try:
+#     import fuzzywuzzy
+# except ImportError:
+#     subprocess.run(["pip", "install", "fuzzywuzzy"])
+#     import fuzzywuzzy
 
 import sys
 from nandparser import Parser
