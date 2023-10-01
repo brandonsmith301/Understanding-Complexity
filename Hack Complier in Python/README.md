@@ -1,5 +1,4 @@
 # Assembler Project
-===
 
 This project aims to convert assembly language into machine code. It consists of Python scripts that handle the tokenization, parsing, and code generation phases of an assembler. While not as efficient as other implementations when compared to C++ or other higher-performing languages, this was designed for intuitive understanding through Python.
 
